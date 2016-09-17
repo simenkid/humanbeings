@@ -1,6 +1,6 @@
 {
   "name": "humanbeings",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An example to demo how to make your own node pakage",
   "main": "index.js",
   "scripts": {
